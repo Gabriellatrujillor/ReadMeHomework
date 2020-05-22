@@ -40,9 +40,6 @@ ${userInputObj.description}
 
 
 ---
-## Badges
-
-![badge](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
 ## Contributing
 
@@ -52,6 +49,10 @@ ${userInputObj.description}
 
  ${userInputObj.tests}
 
+
+ ## Badges
+
+![badge](https://img.shields.io/badge/ReadMeGen-v1.0-ff69b4)
 `;
 }
 

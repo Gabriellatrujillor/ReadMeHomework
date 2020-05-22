@@ -1,7 +1,7 @@
 
-# Github Account: gabriellatrujillor
+# Github Account: Gabriellatrujillor
 
-# Email: gabriella.trujillor@gmail.com
+# Email: Gabriella.trujillor@gmail.com
 
 
 ![Github Profile Picture](https://avatars2.githubusercontent.com/u/61990806?v=4)
@@ -10,7 +10,7 @@
 
 ## *Description*
 
-Generate a Readme
+Generates a Readme file 
 
 ## *Table of Contents*
 
@@ -22,26 +22,23 @@ Generate a Readme
 
 ## *Installation*
 
- axios and inquirer
+ Axios and Inquirer
 
 
 ## *Usage*
 
- to generate a Readme
+ To generate a Readme file
 
 ## *Credits*
 
- me
+ None
 
 ## *License*
 
- none
+ None
 
 
 ---
-## Badges
-
-![badge](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
 ## Contributing
 
@@ -49,5 +46,9 @@ Generate a Readme
 
 ## Tests
 
- Non
+ None
 
+
+ ## Badges
+
+![badge](https://img.shields.io/badge/ReadMeGen-v1.0-ff69b4)
