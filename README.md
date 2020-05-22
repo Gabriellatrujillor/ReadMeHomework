@@ -1,16 +1,16 @@
 
-# Github Account: Gabriellatrujillor
-
-# Email: Gabriella.trujillor@gmail.com
-
-
-![Github Profile Picture](https://avatars2.githubusercontent.com/u/61990806?v=4)
 
 # **Readme Generator**
 
+## Github Account: Gabriellatrujillor
+
+## Email: Gabriella.trujillor@gmail.com
+
+![Github Profile Picture](https://avatars2.githubusercontent.com/u/61990806?v=4)
+
 ## *Description*
 
-Generates a Readme file 
+A generator for Readme files
 
 ## *Table of Contents*
 
@@ -27,11 +27,11 @@ Generates a Readme file
 
 ## *Usage*
 
- To generate a Readme file
+ To generate a Readme
 
 ## *Credits*
 
- None
+ Me
 
 ## *License*
 

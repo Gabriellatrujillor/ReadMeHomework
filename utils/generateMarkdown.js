@@ -1,13 +1,13 @@
 function generateMarkdown(userInputObj) {
   return `
-# Github Account: ${userInputObj.username}
-
-# Email: ${userInputObj.email}
-
-
-![Github Profile Picture](${userInputObj.githubIcon})
 
 # **${userInputObj.title}**
+
+## Github Account: ${userInputObj.username}
+
+## Email: ${userInputObj.email}
+
+![Github Profile Picture](${userInputObj.githubIcon})
 
 ## *Description*
 
