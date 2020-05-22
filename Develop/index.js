@@ -10,15 +10,7 @@ const util = require("util");
 const generateMarkdown = require("./utils/generateMarkdown");
 const writeFileAsync = util.promisify(fs.writeFile);
 
-// * Project title
-// * Description
-// * Installation
-// * Usage
-// * License
-// * Contributing
-// * Tests
-// * GitHub 
-//   *  email
+
 const questions = [
   {
     type: "input",
@@ -38,7 +30,7 @@ const questions = [
   {
     type: "input",
     name: "usage",
-    message: "Do you have any examples for use?",
+    message: "How can this be used?",
   },
   {
     type: "input",
